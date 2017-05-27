@@ -1,0 +1,10 @@
+.banco{
+  width: 400px;
+}
+.oco{
+  width: 20px;
+  height: 20px;
+  background-color: #fff2fa;
+  border: 1px solid #9e178e;
+  float: left;
+}
