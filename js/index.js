@@ -25,7 +25,7 @@ $(document).ready(function () {
         }
     }
     else {
-      confirm('Bạn đã ăn gian ??');
+      confirm('Ô này đã được đánh ??');
     }
   })
 })
